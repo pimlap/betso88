@@ -9,7 +9,7 @@
     "Betso88 Login",
     "Betso88 Register"
   ],
-  "repository": "https://github.com/pimlap/betso88",
+  "repository": "https://github.com/pimlap/betso88/",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
